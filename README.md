@@ -5,8 +5,8 @@
 **A retail and wholesale Shopify website I am building for We Decorate Kakes (WDK), a family-owned bakery and food manufacturer in Missouri, USA, baking since 1976.**
 
 <p>
-<picture><img alt="Client project" src="https://img.shields.io/badge/type-client%20project-b08d57?style=flat-square" height="28"></picture>
-<picture><img alt="Status: in progress" src="https://img.shields.io/badge/status-in%20progress-orange?style=flat-square" height="28"></picture>
+<picture><img alt="Client Project" src="https://img.shields.io/badge/Type-Client%20Project-b08d57?style=flat-square" height="28"></picture>
+<picture><img alt="Status: In Progress" src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square" height="28"></picture>
 </p>
 
 <p>
@@ -62,20 +62,54 @@ I am responsible for the **theme development, page builds, forms, SEO, QA and la
 ### Home
 ![Home](screenshots/01-home.jpg)
 
-### Collection: Signature Mini Kakes
+### Collections
+
+#### Signature Mini Kakes
 ![Signature Mini Kakes collection](screenshots/02-collection-signature-mini-kakes.jpg)
 
-### Wholesale product page
-![Product page](screenshots/03-product-page.jpg)
+#### Signature Pastries
+![Signature Pastries collection](screenshots/03-collection-signature-pastries.jpg)
 
-### Wholesale Programs
-![Wholesale Programs](screenshots/04-wholesale.jpg)
+#### Pies
+![Pies collection](screenshots/04-collection-pies.jpg)
+
+### WDK Product Catalog
+![Product Catalog](screenshots/05-product-catalog.jpg)
+
+### Mini Loafs
+![Mini Loafs](screenshots/06-mini-loafs.jpg)
+
+### Wholesale product page
+![Product page](screenshots/07-product-page.jpg)
+
+### Catering & Events
+![Catering & Events](screenshots/08-catering-events.jpg)
 
 ### Custom Kakes: visit the bakery
-![Custom Kakes](screenshots/05-custom-kakes.jpg)
+![Custom Kakes](screenshots/09-custom-kakes.jpg)
+
+### Seasonal Programs
+![Seasonal Programs](screenshots/10-seasonal-programs.jpg)
+
+### Retail Success Center
+![Retail Success Center](screenshots/11-retail-success-center.jpg)
+
+### Wholesale Programs
+![Wholesale Programs](screenshots/12-wholesale-programs.jpg)
 
 ### Mobile
-![Mobile views](screenshots/06-mobile.jpg)
+![Mobile: home, collection and product](screenshots/13-mobile-shop.jpg)
+
+![Mobile: catering and Knowledge Center](screenshots/14-mobile-catering-knowledge.jpg)
+
+### Bakery Knowledge Center
+![Bakery Knowledge Center](screenshots/15-knowledge-center.jpg)
+
+#### Guides & Ask the Experts
+![Knowledge Center guides](screenshots/16-knowledge-center-guides.jpg)
+
+### Downloads & Sell Sheets
+![Downloads & Sell Sheets](screenshots/17-downloads-sell-sheets.jpg)
 
 > Some pages are left out of the screenshots on purpose because they show the owners' family details or photos that are only approved for the client's own website.
 
