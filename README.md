@@ -133,6 +133,6 @@ I am responsible for the **theme development, page builds, forms, SEO, QA and la
 
 <div align="center">
 
-<sub>© We Decorate Kakes. The brand, logo, photos and content belong to the client and are shown here for portfolio purposes only. The source code is not included.</sub>
+<sub>© We Decorate Kakes. The brand, logo, photos and content belong to the client and are shown here with permission for portfolio purposes only. The source code is not included.</sub>
 
 </div>
